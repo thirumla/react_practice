@@ -1,0 +1,4 @@
+*Map is not a function
+ustomersArray&&customersArray.map
+*dont use marginTop
+bcz when data loads dynamically the static content will be hidden

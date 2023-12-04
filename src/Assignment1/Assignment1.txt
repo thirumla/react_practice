@@ -15,5 +15,8 @@
 		a.  Single Responsibility Principles
 		b.  Significance of keys concept in React 
 		c.  Is there any other way to sharing data from parent to child except props? 
+
+CLASS LEVEL Component----------
+		Higher order component with ERror boundary-------GETDERIVEDSTATEFROMERROR
 		
 	
